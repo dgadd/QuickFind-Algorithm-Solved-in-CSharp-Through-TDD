@@ -1,0 +1,5 @@
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Util\bin\Debug\Gaddzeit.Kata.Util.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Util\bin\Debug\Gaddzeit.Kata.Util.pdb
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Util\obj\Debug\Gaddzeit.Kata.Util.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Util\obj\Debug\Gaddzeit.Kata.Util.pdb

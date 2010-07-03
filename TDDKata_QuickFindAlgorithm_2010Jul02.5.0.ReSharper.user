@@ -1,0 +1,44 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A09791F9-FDC5-431A-9D02-54A75ABF61A3/f:QuickFinderTests.cs" caret="414" fromTop="17" />
+      <File id="A09791F9-FDC5-431A-9D02-54A75ABF61A3/f:QuickFinder.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A09791F9-FDC5-431A-9D02-54A75ABF61A3/f:QuickFinderTests.cs" caret="0" fromTop="0" />
+      <File id="A09791F9-FDC5-431A-9D02-54A75ABF61A3/f:QuickFinderTests.cs" caret="389" fromTop="14" />
+      <File id="A09791F9-FDC5-431A-9D02-54A75ABF61A3/f:QuickFinderTests.cs" caret="414" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="1" />
+      <Item value="NBehave.Spec.NUnit" priority="0" />
+      <Item value="NUnit" priority="0" />
+      <Item value="Framework" priority="0" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="QuickFinderTests`0" priority="1" />
+      <Item value="new" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
