@@ -1,7 +1,10 @@
 README 
+
+from: http://codingsolutions.blogspot.com/2010/07/quick-find-algorithm-from-sedgewick.html
+
 Quick Find Algorithm (from Sedgewick) Solved in C# using TDD
 ============================================================
-In "Algorithms in Java", by Robert Sedgewick, available on Amazon.com here, chapter 1 explores a 
+In "Algorithms in Java", by Robert Sedgewick, available on Amazon.com here, chapter 1 explore a 
 connectivity algorithm in increasingly complex iterations.
 
 The goal of the connectivity process is as follows:
