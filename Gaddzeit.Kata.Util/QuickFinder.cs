@@ -20,12 +20,12 @@ namespace Gaddzeit.Kata.Util
             RefactoredAndFinalVersionOfAlgorithm(startPoint, endPoint);
         }
 
-        public void FirstVersionOfAlgorithm(int startPoint, int endPoint)
+        private void FirstVersionOfAlgorithm(int startPoint, int endPoint)
         {
             _intArray[startPoint] = endPoint;
         }
 
-        public void SecondVersionOfAlgorithm(int startPoint, int endPoint)
+        private void SecondVersionOfAlgorithm(int startPoint, int endPoint)
         {
             for (var i = 0; i < _intArray.Length; i++)
             {
@@ -34,7 +34,7 @@ namespace Gaddzeit.Kata.Util
             }
         }
 
-        public void ThirdVersionOfAlgorithm(int startPoint, int endPoint)
+        private void ThirdVersionOfAlgorithm(int startPoint, int endPoint)
         {
             for (var i = 0; i < _intArray.Length; i++)
             {
@@ -43,7 +43,7 @@ namespace Gaddzeit.Kata.Util
             }
         }
 
-        public void FourthVersionOfAlgorithm(int startPoint, int endPoint)
+        private void FourthVersionOfAlgorithm(int startPoint, int endPoint)
         {
             var valueAtIndexStartPoint = _intArray[startPoint];
             for (var i = 0; i < _intArray.Length; i++)
