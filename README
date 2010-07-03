@@ -1,0 +1,7 @@
+QUICK FIND ALGORITHM SOLVED IN C# THROUGH TDD (Test-Driven-Development)
+=======================================================================
+
+2010Jul02  David Gadd
+This project demonstrates with 4 TDD unit tests and 5 refactorings of ConnectMethod() 
+how to build the quick find algorithm demonstrated in Figure 1.3 of Chapter 1 of 
+Algorithms in Java by Robert Sedgewick 
