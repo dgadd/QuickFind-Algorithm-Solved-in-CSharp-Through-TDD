@@ -1,0 +1,10 @@
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\Gaddzeit.Kata.Tests.Util.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\Gaddzeit.Kata.Tests.Util.pdb
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\Gaddzeit.Kata.Util.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\NBehave.Spec.NUnit.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\nunit.framework.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\Rhino.Mocks.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\bin\Debug\Gaddzeit.Kata.Util.pdb
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\obj\Debug\Gaddzeit.Kata.Tests.Util.dll
+C:\SourceCode\dotNet\TDDKata_QuickFindAlgorithm_2010Jul02\Gaddzeit.Kata.Tests.Util\obj\Debug\Gaddzeit.Kata.Tests.Util.pdb
